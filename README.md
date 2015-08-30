@@ -1,0 +1,3 @@
+This repository contains sample code for [Raspberry Pi 0.96" OLED Display Module](https://mcuapps.com/goods/rpi/rpi-oled-0d96). The document named `RPI-OLED-Datesheet.pdf` with title "Raspberry Pi 0.96’ OLED Display Module User Manual" provides sample code listing on top of [WiringPi](http://wiringpi.com/download-and-install/). Since copy-and-paste the source code from this PDF file would be malformatted and it's painful to fix it, I republish its source here.
+
+The vendor "52Pi" also provides another sample code with direct SPI bus access. It could be download via [Engilish](http://wiki.52pi.com/index.php/0.96_OLED(English)) or [中文](http://wiki.52pi.com/index.php/0.96_OLED(Chinese))
